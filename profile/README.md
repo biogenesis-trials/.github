@@ -1,4 +1,4 @@
-![Biogenesis](https://humantechnopole.it/wp-content/uploads/2022/04/brainomics-1536x986.jpg](https://github.com/biogenesis-trials/.github/blob/main/public/Biogenesis-Placeholder.png)
+![Biogenesis](https://github.com/biogenesis-trials/.github/blob/main/public/Biogenesis-Placeholder.png)
 
 ---
 

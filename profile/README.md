@@ -1,4 +1,6 @@
-<img src="https://github.com/biogenesis-trials/.github/blob/main/public/Biogenesis-Placeholder.png" alt="Biogenesis" width="200"/>
+<p align="center">
+  <img src="https://github.com/biogenesis-trials/.github/blob/main/public/Biogenesis-Placeholder.png" alt="Biogenesis Logo" width="200"/>
+</p>
 
 ---
 

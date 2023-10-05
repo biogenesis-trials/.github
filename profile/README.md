@@ -1,4 +1,4 @@
-![Biogenesis](https://github.com/biogenesis-trials/.github/blob/main/public/Biogenesis-Placeholder.png)
+<img src="https://github.com/biogenesis-trials/.github/blob/main/public/Biogenesis-Placeholder.png" alt="Biogenesis" width="200"/>
 
 ---
 

@@ -36,7 +36,6 @@ By leveraging AI and systematic processes, we can make clinical trials **4X chea
 
 ## Testimonials
 
-[Dr. Dietrich Stephan](https://en.wikipedia.org/wiki/Dietrich_Stephan), a pioneer in gene therapy, says, "Biogenesis is revolutionizing the clinical trial ecosystem. It's a game-changer for drug development."
 
 ## Our Journey
 
